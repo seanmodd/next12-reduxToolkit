@@ -1,5 +1,6 @@
 # Redux Toolkit TypeScript Example
 - ***This is from Next.js's GitHub [here](https://github.com/vercel/next.js/tree/canary/examples/with-redux)*** 
+- ***Specifically it has been maintained by Lee Robinson...*** 
 
 This example shows how to integrate Next.js with [Redux Toolkit](https://redux-toolkit.js.org).
 
