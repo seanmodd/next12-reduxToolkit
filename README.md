@@ -5,6 +5,8 @@
 - ***This is the one with the counter as shown here:*** 
 ![screenshot](https://github.com/seanmodd/next12-reduxToolkit/blob/main/public/screenshot.png)
 
+- ***Below is the README.md of the next-redux-wrapper repo itself:***
+
 # Redux Toolkit TypeScript Example
 
 This example shows how to integrate Next.js with [Redux Toolkit](https://redux-toolkit.js.org).
