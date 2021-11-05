@@ -1,8 +1,11 @@
-# Redux Toolkit TypeScript Example
+
+# next12-reduxToolkit
 - ***This is from Next.js's GitHub [here](https://github.com/vercel/next.js/tree/canary/examples/with-redux)*** 
 - ***Specifically it has been maintained by Lee Robinson...*** 
 - ***This is the one with the counter as shown here:*** 
 ![screenshot](https://github.com/seanmodd/next12-reduxToolkit/blob/main/public/screenshot.png)
+
+# Redux Toolkit TypeScript Example
 
 This example shows how to integrate Next.js with [Redux Toolkit](https://redux-toolkit.js.org).
 
@@ -25,4 +28,3 @@ yarn create next-app --example with-redux with-redux-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
-# next12-reduxToolkit
