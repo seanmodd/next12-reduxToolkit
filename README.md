@@ -2,6 +2,7 @@
 # next12-reduxToolkit
 - ***This is from Next.js's GitHub [here](https://github.com/vercel/next.js/tree/canary/examples/with-redux)*** 
 - ***Specifically it has been maintained by Lee Robinson...*** 
+- ***DOES NOT HAVE getStaticProps() or getServerSideProps***
 - ***This is the one with the counter as shown here:*** 
 ![screenshot](https://github.com/seanmodd/next12-reduxToolkit/blob/main/public/screenshot.png)
 
